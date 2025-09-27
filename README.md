@@ -22,3 +22,8 @@
 ### कम्प्युटरवरून:
 ```bash
 python mother_agent.py
+## 🚀 तयार होणारे एजंट प्रकार
+- डिप्लॉयर एजंट (नवीन)
+
+## 📞 संपर्क
+ईमेल: devendradkh.snpt@gmail.com
